@@ -1,3 +1,1 @@
-Greet="Hello_world!"
-
-Hello_world!
+Good = "New example"
