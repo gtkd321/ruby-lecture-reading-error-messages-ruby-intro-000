@@ -1,1 +1,2 @@
 Good = "New example"
+Good
