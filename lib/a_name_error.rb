@@ -1,4 +1,3 @@
-do Greeting="Hello world!"
+Greeting="Hello_world!"
 
 Hello_world!
-end
